@@ -9,12 +9,12 @@ The main goal of this project is to automatically validate key user journeys, re
 -	6 test specification files, each representing a User Story
 -	Tests are written in a modular and scalable structure
 -	Covered user flows:
-  *	User Authentication
-  *	Product Search and Listing
-  *	Product Detail Page & Add to Cart
-  *	Cart Management and Validation
-  *	Checkout and Order Confirmation
-  *	Guest User Shopping Flow
+  - User Authentication
+  -	Product Search and Listing
+  -	Product Detail Page & Add to Cart
+  -	Cart Management and Validation
+  -	Checkout and Order Confirmation
+  -	Guest User Shopping Flow
 
 ## 🔧 Technologies Used
 -	Cypress – End-to-End Test Automation
@@ -24,6 +24,17 @@ The main goal of this project is to automatically validate key user journeys, re
 -	Git & GitHub
 
 ## 🗂️ Project Structure & Architecture
+```text
+cypress/
+ ├── e2e/                 # Test specifications (.cy.js)
+ ├── pages/               # Page Object Model (POM) files
+ └── support/             # Cypress support files
+mochawesome-report/       # Consolidated HTML test report
+README.md                 # Project documentation
+cypress.config.js         # Cypress configuration
+package.json              # Project dependencies
+package-lock.json
+
 - cypress/
 - ├── e2e/                 # Test specifications (.cy.js)
 - ├── pages/               # Page Object Model (POM) files
@@ -73,5 +84,6 @@ The codebase is:
 -	Ready for enterprise-level automation workflows
  
 👩‍💻 Author: Semanur Aydın
+
 
 
