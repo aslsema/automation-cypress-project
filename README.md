@@ -40,12 +40,12 @@ The project follows the Page Object Model (POM) design pattern to ensure:
 •	Clean and scalable test code
  
 ## ⚙️ Installation & Execution
-# 📌 Prerequisites
+### 📌 Prerequisites
 •	Node.js (v16 or higher)
 •	npm
-# 📥 Installation
+### 📥 Installation
 npm install
-# ▶️ Run Tests (Headless Mode)
+### ▶️ Run Tests (Headless Mode)
 npx cypress run
  
 ## 📚 Project Documentation & Test Results
@@ -73,3 +73,4 @@ The codebase is:
 •	Ready for enterprise-level automation workflows
  
 👩‍💻 Author: Semanur Aydın
+
