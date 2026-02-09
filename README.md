@@ -50,11 +50,11 @@ npm install
 npx cypress run
  
 ## 📚 Project Documentation & Test Results
--	🔗 [Project Requirements] (https://docs.google.com/spreadsheets/d/11mkNWDasqNmcssWxvpOlDdYgSf8734mJZGbZJFMvmxw/edit?gid=1345439340#gid=1345439340)
+-	🔗 [Project Requirements](https://docs.google.com/spreadsheets/d/11mkNWDasqNmcssWxvpOlDdYgSf8734mJZGbZJFMvmxw/edit?gid=1345439340#gid=1345439340)
 Detailed list of project requirements.
--	🔗 [Test Scenarios & User Stories] ((https://docs.google.com/spreadsheets/d/11YQShXzJtF-0ZcRW1kCgOiTxPvFm-YNlfnBlZ3fYgPU/edit?gid=0#gid=0)
+-	🔗 [Test Scenarios & User Stories](https://docs.google.com/spreadsheets/d/11YQShXzJtF-0ZcRW1kCgOiTxPvFm-YNlfnBlZ3fYgPU/edit?gid=0#gid=0)
 Test scenarios prepared according to acceptance criteria.
--	🔗 [HTML Test Report - Mochawesome] (https://aslsema.github.io/automation-cypress-project/mochawesome-report/merged.html)
+-	🔗 [HTML Test Report - Mochawesome](https://aslsema.github.io/automation-cypress-project/mochawesome-report/merged.html)
 Consolidated HTML test report generated with Mochawesome.
 
 ## 🎯 Skills Demonstrated
@@ -74,4 +74,5 @@ The codebase is:
 -	Ready for enterprise-level automation workflows
  
 👩‍💻 Author: Semanur Aydın
+
 
