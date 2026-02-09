@@ -1,0 +1,12 @@
+# Node
+node_modules/
+
+# Cypress artifacts
+cypress/videos/
+cypress/reports/
+
+# Temporary / generated files
+merged.json
+
+# OS files
+.DS_Store
