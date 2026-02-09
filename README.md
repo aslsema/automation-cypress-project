@@ -14,7 +14,8 @@ The main goal of this project is to automatically validate key user journeys, re
   - Product Detail Page & Add to Cart
   - Cart Management and Validation
   - Checkout and Order Confirmation
-
+  - Shopping from the Guest Page
+    
 ## 🔧 Technologies Used
 -	Cypress – End-to-End Test Automation
 -	JavaScript
@@ -74,5 +75,3 @@ The codebase is:
 -	Ready for enterprise-level automation workflows
  
 👩‍💻 Author: Semanur Aydın
-
-
