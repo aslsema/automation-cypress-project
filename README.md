@@ -31,8 +31,8 @@ cypress/
 mochawesome-report/       # Consolidated HTML test report
 README.md                 # Project documentation
 cypress.config.js         # Cypress configuration
-package.json              # Project dependencies
 package-lock.json
+package.json              # Project dependencies
 ```
 
 The project follows the Page Object Model (POM) design pattern to ensure:
@@ -74,3 +74,4 @@ The codebase is:
 -	Ready for enterprise-level automation workflows
  
 👩‍💻 Author: Semanur Aydın
+
